@@ -1,5 +1,3 @@
-a
-A
 abandon
 Abandon
 ability
